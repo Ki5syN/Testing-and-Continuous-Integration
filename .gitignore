@@ -275,9 +275,4 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/webstorm,node,visualstudiocode
 
-babel.config.json
-.eslintrc.js
-package-lock.json
-package.json
-webpack.config.js
 
